@@ -1,0 +1,19 @@
+{
+    "name": "FastTV.Presentation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:891a6ce4d16ac2a44bd5f4aaf6ed286c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e70b6e625ebb1624d99283d08b36e2c2",
+        "GUID:61364d5b6876fe3468248afa838cc098"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

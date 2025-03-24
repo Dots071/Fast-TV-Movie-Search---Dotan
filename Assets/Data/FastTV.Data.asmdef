@@ -1,0 +1,18 @@
+{
+    "name": "FastTV.Data",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:891a6ce4d16ac2a44bd5f4aaf6ed286c",
+        "GUID:61364d5b6876fe3468248afa838cc098"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

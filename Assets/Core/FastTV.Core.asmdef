@@ -1,0 +1,20 @@
+{
+    "name": "FastTV.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:e70b6e625ebb1624d99283d08b36e2c2",
+        "GUID:61364d5b6876fe3468248afa838cc098",
+        "GUID:4c260d863fa9098419112bdc42b5997f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
